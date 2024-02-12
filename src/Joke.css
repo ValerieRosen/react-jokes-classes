@@ -1,0 +1,27 @@
+.Joke {
+  margin-bottom: 1em;
+}
+
+.Joke-votearea {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.Joke-votearea > * {
+  margin-right: 0.5em;
+  margin-left: 1.25em;
+  margin-bottom: 0.5em;
+}
+
+.Joke-text {
+  margin-left: 1em;
+  display: inline-block;
+  width: 500px;
+  background-color: rgb(68, 62, 55);
+}
+
+.fas {
+  width: 9px;
+  height: 8px;
+  color: rgb(116, 116, 109);
+}
